@@ -53,9 +53,11 @@ It covers the full workflow — from fetching API data to cleaning with **Power 
 ---
 
 ## 📊 Sample Dashboard
-*(Replace with your actual screenshot for best results)*  
 
-![Dashboard Preview](assets/dashboard-screenshot.png)
+### Based on Current close, Avg close, volatility and many more
+<img width="1322" height="737" alt="Image" src="https://github.com/user-attachments/assets/d59741f2-af58-4297-a42e-c778dc03bd91" />
+
+### Based on Close and avg close by Month information
 
 ---
 
