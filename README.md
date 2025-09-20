@@ -2,7 +2,6 @@
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi)](https://powerbi.microsoft.com/)
 [![Alpha Vantage](https://img.shields.io/badge/Alpha%20Vantage-API-1E90FF)](https://www.alphavantage.co/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
@@ -58,13 +57,13 @@ It covers the full workflow — from fetching API data to cleaning with **Power 
 <img width="1322" height="737" alt="Image" src="https://github.com/user-attachments/assets/d59741f2-af58-4297-a42e-c778dc03bd91" />
 
 ### Based on Close and avg close by Month information
-
+<img width="1322" height="739" alt="Image" src="https://github.com/user-attachments/assets/cb1968f9-2cc2-48ab-9620-93791576ce8a" />
 ---
 
 ## 🔑 Setup & Usage
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/your-username/stocks-analysis-powerbi.git
+   git clone https://github.com/nitintiwari5002/stocks-analysis-powerbi.git
    cd stocks-analysis-powerbi
 
 ---
@@ -87,12 +86,7 @@ To contribute:
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
-
----
-
 ## 👨‍💻 Author
-**Your Name**  
-- GitHub: [@your-username](https://github.com/your-username)  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)  
+**Nitin Tiwari**  
+- GitHub: https://github.com/nitintiwari5002
+- LinkedIn: https://linkedin.com/in/nitin-krishnakumar-tiwari-685557376 
